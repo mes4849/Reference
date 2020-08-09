@@ -8,4 +8,9 @@ Making the backspace erase characters in insert mode and having the arrow keys n
   ```
   set nocompatible
   set backspace=2
-  ```
+  ```  
+Deleting lines:  
+- Outside of insert mode, use one of the following commands  
+  `dd`  
+  or  
+  `D`
